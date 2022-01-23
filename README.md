@@ -1,4 +1,4 @@
 # SiDiff
 
-Satellite Image
+Satellite Image Diff.
 
