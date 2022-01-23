@@ -1,6 +1,6 @@
 # SiDiff
 
-**TODO: Add description**
+Satellite Image Diff.
 
 ## Installation
 

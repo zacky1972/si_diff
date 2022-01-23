@@ -1,6 +1,6 @@
 defmodule SiDiff do
   @moduledoc """
-  Documentation for `SiDiff`.
+  `SiDiff` is "Satellite Image Diff".
   """
 
   @doc """
